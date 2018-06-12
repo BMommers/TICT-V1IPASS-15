@@ -1,0 +1,711 @@
+[2018-05-17 12:14:24]	###### VSFTPD log Analyzer started ######
+[2018-05-17 12:14:24]	Function initConfig was called
+[2018-05-17 12:14:24]	A valid option for logging threshold was found in the configfile!
+[2018-05-17 12:14:24]	loggingThreshold set to: 5
+[2018-05-17 12:14:24]	A valid option for log file was found in the configfile!
+[2018-05-17 12:14:24]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-17 12:14:24]	A valid option for logging target was found in the config file!
+[2018-05-17 12:14:24]	logConsole set to: False
+[2018-05-18 08:55:06]	###### VSFTPD log Analyzer started ######
+[2018-05-18 08:55:06]	Function initConfig was called
+[2018-05-18 08:55:06]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 08:55:06]	loggingThreshold set to: 5
+[2018-05-18 08:55:06]	A valid option for log file was found in the configfile!
+[2018-05-18 08:55:06]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 08:55:06]	A valid option for logging target was found in the config file!
+[2018-05-18 08:55:06]	logConsole set to: False
+[2018-05-18 08:55:57]	###### VSFTPD log Analyzer started ######
+[2018-05-18 08:55:57]	Function initConfig was called
+[2018-05-18 08:55:57]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 08:55:57]	loggingThreshold set to: 5
+[2018-05-18 08:55:57]	A valid option for log file was found in the configfile!
+[2018-05-18 08:55:57]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 08:55:57]	A valid option for logging target was found in the config file!
+[2018-05-18 08:55:57]	logConsole set to: False
+[2018-05-18 08:56:09]	###### VSFTPD log Analyzer started ######
+[2018-05-18 08:56:09]	Function initConfig was called
+[2018-05-18 08:56:09]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 08:56:09]	loggingThreshold set to: 5
+[2018-05-18 08:56:09]	A valid option for log file was found in the configfile!
+[2018-05-18 08:56:09]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 08:56:09]	A valid option for logging target was found in the config file!
+[2018-05-18 08:56:09]	logConsole set to: False
+[2018-05-18 08:56:21]	###### VSFTPD log Analyzer started ######
+[2018-05-18 08:56:21]	Function initConfig was called
+[2018-05-18 08:56:21]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 08:56:21]	loggingThreshold set to: 5
+[2018-05-18 08:56:21]	A valid option for log file was found in the configfile!
+[2018-05-18 08:56:21]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 08:56:21]	A valid option for logging target was found in the config file!
+[2018-05-18 08:56:21]	logConsole set to: False
+[2018-05-18 08:57:27]	###### VSFTPD log Analyzer started ######
+[2018-05-18 08:57:27]	Function initConfig was called
+[2018-05-18 08:57:27]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 08:57:27]	loggingThreshold set to: 5
+[2018-05-18 08:57:27]	A valid option for log file was found in the configfile!
+[2018-05-18 08:57:27]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 08:57:27]	A valid option for logging target was found in the config file!
+[2018-05-18 08:57:27]	logConsole set to: False
+[2018-05-18 08:58:07]	###### VSFTPD log Analyzer started ######
+[2018-05-18 08:58:07]	Function initConfig was called
+[2018-05-18 08:58:07]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 08:58:07]	loggingThreshold set to: 5
+[2018-05-18 08:58:07]	A valid option for log file was found in the configfile!
+[2018-05-18 08:58:07]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 08:58:07]	A valid option for logging target was found in the config file!
+[2018-05-18 08:58:07]	logConsole set to: False
+[2018-05-18 08:58:14]	###### VSFTPD log Analyzer started ######
+[2018-05-18 08:58:14]	Function initConfig was called
+[2018-05-18 08:58:14]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 08:58:14]	loggingThreshold set to: 5
+[2018-05-18 08:58:14]	A valid option for log file was found in the configfile!
+[2018-05-18 08:58:14]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 08:58:14]	A valid option for logging target was found in the config file!
+[2018-05-18 08:58:14]	logConsole set to: False
+[2018-05-18 08:59:13]	###### VSFTPD log Analyzer started ######
+[2018-05-18 08:59:13]	Function initConfig was called
+[2018-05-18 08:59:13]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 08:59:13]	loggingThreshold set to: 5
+[2018-05-18 08:59:13]	A valid option for log file was found in the configfile!
+[2018-05-18 08:59:13]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 08:59:13]	A valid option for logging target was found in the config file!
+[2018-05-18 08:59:13]	logConsole set to: False
+[2018-05-18 08:59:26]	###### VSFTPD log Analyzer started ######
+[2018-05-18 08:59:26]	Function initConfig was called
+[2018-05-18 08:59:26]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 08:59:26]	loggingThreshold set to: 5
+[2018-05-18 08:59:26]	A valid option for log file was found in the configfile!
+[2018-05-18 08:59:26]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 08:59:26]	A valid option for logging target was found in the config file!
+[2018-05-18 08:59:26]	logConsole set to: False
+[2018-05-18 08:59:45]	###### VSFTPD log Analyzer started ######
+[2018-05-18 08:59:45]	Function initConfig was called
+[2018-05-18 08:59:45]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 08:59:45]	loggingThreshold set to: 5
+[2018-05-18 08:59:45]	A valid option for log file was found in the configfile!
+[2018-05-18 08:59:45]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 08:59:45]	A valid option for logging target was found in the config file!
+[2018-05-18 08:59:45]	logConsole set to: False
+[2018-05-18 09:10:47]	###### VSFTPD log Analyzer started ######
+[2018-05-18 09:10:47]	Function initConfig was called
+[2018-05-18 09:10:47]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 09:10:47]	loggingThreshold set to: 5
+[2018-05-18 09:10:47]	A valid option for log file was found in the configfile!
+[2018-05-18 09:10:47]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 09:10:47]	A valid option for logging target was found in the config file!
+[2018-05-18 09:10:47]	logConsole set to: False
+[2018-05-18 09:17:50]	###### VSFTPD log Analyzer started ######
+[2018-05-18 09:17:50]	Function initConfig was called
+[2018-05-18 09:17:50]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 09:17:50]	loggingThreshold set to: 5
+[2018-05-18 09:17:50]	A valid option for log file was found in the configfile!
+[2018-05-18 09:17:50]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 09:17:50]	A valid option for logging target was found in the config file!
+[2018-05-18 09:17:50]	logConsole set to: False
+[2018-05-18 09:18:00]	###### VSFTPD log Analyzer started ######
+[2018-05-18 09:18:00]	Function initConfig was called
+[2018-05-18 09:18:00]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 09:18:00]	loggingThreshold set to: 5
+[2018-05-18 09:18:00]	A valid option for log file was found in the configfile!
+[2018-05-18 09:18:00]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 09:18:00]	A valid option for logging target was found in the config file!
+[2018-05-18 09:18:00]	logConsole set to: False
+[2018-05-18 09:19:24]	###### VSFTPD log Analyzer started ######
+[2018-05-18 09:19:24]	Function initConfig was called
+[2018-05-18 09:19:24]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 09:19:24]	loggingThreshold set to: 5
+[2018-05-18 09:19:24]	A valid option for log file was found in the configfile!
+[2018-05-18 09:19:24]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 09:19:24]	A valid option for logging target was found in the config file!
+[2018-05-18 09:19:24]	logConsole set to: False
+[2018-05-18 09:19:41]	###### VSFTPD log Analyzer started ######
+[2018-05-18 09:19:41]	Function initConfig was called
+[2018-05-18 09:19:41]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 09:19:41]	loggingThreshold set to: 5
+[2018-05-18 09:19:41]	A valid option for log file was found in the configfile!
+[2018-05-18 09:19:41]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 09:19:41]	A valid option for logging target was found in the config file!
+[2018-05-18 09:19:41]	logConsole set to: False
+[2018-05-18 09:20:57]	###### VSFTPD log Analyzer started ######
+[2018-05-18 09:20:57]	Function initConfig was called
+[2018-05-18 09:20:57]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 09:20:57]	loggingThreshold set to: 5
+[2018-05-18 09:20:57]	A valid option for log file was found in the configfile!
+[2018-05-18 09:20:57]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 09:20:57]	A valid option for logging target was found in the config file!
+[2018-05-18 09:20:57]	logConsole set to: False
+[2018-05-18 11:22:24]	###### VSFTPD log Analyzer started ######
+[2018-05-18 11:22:24]	Function initConfig was called
+[2018-05-18 11:22:24]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 11:22:24]	loggingThreshold set to: 5
+[2018-05-18 11:22:24]	A valid option for log file was found in the configfile!
+[2018-05-18 11:22:24]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 11:22:24]	A valid option for logging target was found in the config file!
+[2018-05-18 11:22:25]	logConsole set to: False
+[2018-05-18 11:22:58]	###### VSFTPD log Analyzer started ######
+[2018-05-18 11:22:58]	Function initConfig was called
+[2018-05-18 11:22:58]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 11:22:58]	loggingThreshold set to: 5
+[2018-05-18 11:22:58]	A valid option for log file was found in the configfile!
+[2018-05-18 11:22:58]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 11:22:58]	A valid option for logging target was found in the config file!
+[2018-05-18 11:22:58]	logConsole set to: False
+[2018-05-18 11:27:06]	Entering Quiet execution mode
+[2018-05-18 11:27:06]	###### VSFTPD log Analyzer started ######
+[2018-05-18 11:27:06]	Function initConfig was called
+[2018-05-18 11:27:06]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 11:27:06]	loggingThreshold set to: 5
+[2018-05-18 11:27:06]	A valid option for log file was found in the configfile!
+[2018-05-18 11:27:06]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 11:27:06]	A valid option for logging target was found in the config file!
+[2018-05-18 11:27:06]	logConsole set to: False
+[2018-05-18 11:27:06]	Function initArgs was called
+[2018-05-18 11:27:56]	###### VSFTPD log Analyzer started ######
+[2018-05-18 11:27:56]	Function initConfig was called
+[2018-05-18 11:27:56]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 11:27:56]	loggingThreshold set to: 5
+[2018-05-18 11:27:56]	A valid option for log file was found in the configfile!
+[2018-05-18 11:27:56]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 11:27:56]	A valid option for logging target was found in the config file!
+[2018-05-18 11:27:56]	logConsole set to: False
+[2018-05-18 11:27:56]	Function initArgs was called
+[2018-05-18 11:27:56]	quiet set to: False
+[2018-05-18 11:28:17]	Entering Quiet execution mode
+[2018-05-18 11:28:17]	###### VSFTPD log Analyzer started ######
+[2018-05-18 11:28:17]	Function initConfig was called
+[2018-05-18 11:28:17]	A valid option for logging threshold was found in the configfile!
+[2018-05-18 11:28:18]	loggingThreshold set to: 5
+[2018-05-18 11:28:18]	A valid option for log file was found in the configfile!
+[2018-05-18 11:28:18]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-05-18 11:28:18]	A valid option for logging target was found in the config file!
+[2018-05-18 11:28:18]	logConsole set to: False
+[2018-05-18 11:28:18]	Function initArgs was called
+[2018-05-18 11:28:18]	quiet set to: True
+[2018-06-11 17:43:57]	###### VSFTPD log Analyzer started ######
+[2018-06-11 17:43:57]	Function initConfig was called
+[2018-06-11 17:43:57]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 17:43:57]	loggingThreshold set to: 5
+[2018-06-11 17:43:57]	A valid option for log file was found in the configfile!
+[2018-06-11 17:43:57]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 17:43:57]	A valid option for logging target was found in the config file!
+[2018-06-11 17:43:57]	logConsole set to: False
+[2018-06-11 17:43:57]	Function initArgs was called
+[2018-06-11 17:43:57]	quiet set to: False
+[2018-06-11 17:46:21]	###### VSFTPD log Analyzer started ######
+[2018-06-11 17:46:21]	Function initConfig was called
+[2018-06-11 17:46:21]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 17:46:21]	loggingThreshold set to: 5
+[2018-06-11 17:46:21]	A valid option for log file was found in the configfile!
+[2018-06-11 17:46:21]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 17:46:21]	A valid option for logging target was found in the config file!
+[2018-06-11 17:46:21]	logConsole set to: False
+[2018-06-11 17:46:21]	Function initArgs was called
+[2018-06-11 17:46:21]	quiet set to: False
+[2018-06-11 17:51:45]	Entering interactive execution mode
+[2018-06-11 17:51:45]	###### VSFTPD log Analyzer started ######
+[2018-06-11 17:51:45]	Function initConfig was called
+[2018-06-11 17:51:45]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 17:51:45]	loggingThreshold set to: 5
+[2018-06-11 17:51:45]	A valid option for log file was found in the configfile!
+[2018-06-11 17:51:45]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 17:51:45]	A valid option for logging target was found in the config file!
+[2018-06-11 17:51:45]	logConsole set to: False
+[2018-06-11 17:51:45]	Function initArgs was called
+[2018-06-11 17:51:45]	quiet set to: False
+[2018-06-11 17:51:53]	Entering interactive execution mode
+[2018-06-11 17:51:53]	###### VSFTPD log Analyzer started ######
+[2018-06-11 17:51:53]	Function initConfig was called
+[2018-06-11 17:51:53]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 17:51:53]	loggingThreshold set to: 5
+[2018-06-11 17:51:53]	A valid option for log file was found in the configfile!
+[2018-06-11 17:51:53]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 17:51:53]	A valid option for logging target was found in the config file!
+[2018-06-11 17:51:53]	logConsole set to: False
+[2018-06-11 17:51:53]	Function initArgs was called
+[2018-06-11 17:51:53]	quiet set to: False
+[2018-06-11 17:52:47]	Entering interactive execution mode
+[2018-06-11 17:52:47]	###### VSFTPD log Analyzer started ######
+[2018-06-11 17:52:47]	Function initConfig was called
+[2018-06-11 17:52:47]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 17:52:47]	loggingThreshold set to: 5
+[2018-06-11 17:52:47]	A valid option for log file was found in the configfile!
+[2018-06-11 17:52:47]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 17:52:47]	A valid option for logging target was found in the config file!
+[2018-06-11 17:52:47]	logConsole set to: False
+[2018-06-11 17:52:47]	Function initArgs was called
+[2018-06-11 17:52:47]	quiet set to: False
+[2018-06-11 17:53:26]	Entering interactive execution mode
+[2018-06-11 17:53:26]	###### VSFTPD log Analyzer started ######
+[2018-06-11 17:53:26]	Function initConfig was called
+[2018-06-11 17:53:26]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 17:53:26]	loggingThreshold set to: 5
+[2018-06-11 17:53:26]	A valid option for log file was found in the configfile!
+[2018-06-11 17:53:26]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 17:53:26]	A valid option for logging target was found in the config file!
+[2018-06-11 17:53:26]	logConsole set to: False
+[2018-06-11 17:53:26]	Function initArgs was called
+[2018-06-11 17:53:26]	quiet set to: False
+[2018-06-11 17:53:38]	Entering interactive execution mode
+[2018-06-11 17:53:38]	###### VSFTPD log Analyzer started ######
+[2018-06-11 17:53:38]	Function initConfig was called
+[2018-06-11 17:53:38]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 17:53:38]	loggingThreshold set to: 5
+[2018-06-11 17:53:38]	A valid option for log file was found in the configfile!
+[2018-06-11 17:53:38]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 17:53:38]	A valid option for logging target was found in the config file!
+[2018-06-11 17:53:38]	logConsole set to: False
+[2018-06-11 17:53:38]	Function initArgs was called
+[2018-06-11 17:53:38]	quiet set to: False
+[2018-06-11 17:54:54]	Entering interactive execution mode
+[2018-06-11 17:54:54]	###### VSFTPD log Analyzer started ######
+[2018-06-11 17:54:54]	Function initConfig was called
+[2018-06-11 17:54:54]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 17:54:54]	loggingThreshold set to: 5
+[2018-06-11 17:54:54]	A valid option for log file was found in the configfile!
+[2018-06-11 17:54:54]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 17:54:54]	A valid option for logging target was found in the config file!
+[2018-06-11 17:54:54]	logConsole set to: False
+[2018-06-11 17:54:54]	Function initArgs was called
+[2018-06-11 17:54:54]	quiet set to: False
+[2018-06-11 17:56:48]	Entering interactive execution mode
+[2018-06-11 17:56:48]	###### VSFTPD log Analyzer started ######
+[2018-06-11 17:56:48]	Function initConfig was called
+[2018-06-11 17:56:48]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 17:56:48]	loggingThreshold set to: 5
+[2018-06-11 17:56:48]	A valid option for log file was found in the configfile!
+[2018-06-11 17:56:48]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 17:56:48]	A valid option for logging target was found in the config file!
+[2018-06-11 17:56:48]	logConsole set to: False
+[2018-06-11 17:56:48]	Function initArgs was called
+[2018-06-11 17:56:48]	quiet set to: False
+[2018-06-11 18:04:20]	Entering interactive execution mode
+[2018-06-11 18:04:20]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:04:20]	Function initConfig was called
+[2018-06-11 18:04:20]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:04:20]	loggingThreshold set to: 5
+[2018-06-11 18:04:20]	A valid option for log file was found in the configfile!
+[2018-06-11 18:04:20]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:04:20]	A valid option for logging target was found in the config file!
+[2018-06-11 18:04:20]	logConsole set to: False
+[2018-06-11 18:04:20]	Function initArgs was called
+[2018-06-11 18:04:20]	quiet set to: False
+[2018-06-11 18:04:29]	Entering interactive execution mode
+[2018-06-11 18:04:29]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:04:29]	Function initConfig was called
+[2018-06-11 18:04:29]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:04:29]	loggingThreshold set to: 5
+[2018-06-11 18:04:29]	A valid option for log file was found in the configfile!
+[2018-06-11 18:04:29]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:04:29]	A valid option for logging target was found in the config file!
+[2018-06-11 18:04:29]	logConsole set to: False
+[2018-06-11 18:04:29]	Function initArgs was called
+[2018-06-11 18:04:29]	quiet set to: False
+[2018-06-11 18:04:54]	Entering interactive execution mode
+[2018-06-11 18:04:54]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:04:54]	Function initConfig was called
+[2018-06-11 18:04:54]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:04:54]	loggingThreshold set to: 5
+[2018-06-11 18:04:54]	A valid option for log file was found in the configfile!
+[2018-06-11 18:04:54]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:04:54]	A valid option for logging target was found in the config file!
+[2018-06-11 18:04:54]	logConsole set to: False
+[2018-06-11 18:04:54]	Function initArgs was called
+[2018-06-11 18:04:54]	quiet set to: False
+[2018-06-11 18:05:04]	Entering interactive execution mode
+[2018-06-11 18:05:04]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:05:04]	Function initConfig was called
+[2018-06-11 18:05:04]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:05:04]	loggingThreshold set to: 5
+[2018-06-11 18:05:04]	A valid option for log file was found in the configfile!
+[2018-06-11 18:05:04]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:05:04]	A valid option for logging target was found in the config file!
+[2018-06-11 18:05:04]	logConsole set to: False
+[2018-06-11 18:05:04]	Function initArgs was called
+[2018-06-11 18:05:04]	quiet set to: False
+[2018-06-11 18:05:22]	Entering interactive execution mode
+[2018-06-11 18:05:22]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:05:22]	Function initConfig was called
+[2018-06-11 18:05:22]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:05:22]	loggingThreshold set to: 5
+[2018-06-11 18:05:22]	A valid option for log file was found in the configfile!
+[2018-06-11 18:05:22]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:05:22]	A valid option for logging target was found in the config file!
+[2018-06-11 18:05:22]	logConsole set to: False
+[2018-06-11 18:05:22]	Function initArgs was called
+[2018-06-11 18:05:22]	quiet set to: False
+[2018-06-11 18:06:45]	Entering interactive execution mode
+[2018-06-11 18:06:45]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:06:45]	Function initConfig was called
+[2018-06-11 18:06:45]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:06:45]	loggingThreshold set to: 5
+[2018-06-11 18:06:45]	A valid option for log file was found in the configfile!
+[2018-06-11 18:06:45]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:06:45]	A valid option for logging target was found in the config file!
+[2018-06-11 18:06:45]	logConsole set to: False
+[2018-06-11 18:06:45]	Function initArgs was called
+[2018-06-11 18:06:45]	quiet set to: False
+[2018-06-11 18:07:35]	Entering interactive execution mode
+[2018-06-11 18:07:35]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:07:35]	Function initConfig was called
+[2018-06-11 18:07:35]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:07:35]	loggingThreshold set to: 5
+[2018-06-11 18:07:35]	A valid option for log file was found in the configfile!
+[2018-06-11 18:07:35]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:07:35]	A valid option for logging target was found in the config file!
+[2018-06-11 18:07:35]	logConsole set to: False
+[2018-06-11 18:07:35]	Function initArgs was called
+[2018-06-11 18:07:35]	quiet set to: False
+[2018-06-11 18:07:38]	Entering interactive execution mode
+[2018-06-11 18:07:38]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:07:38]	Function initConfig was called
+[2018-06-11 18:07:38]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:07:38]	loggingThreshold set to: 5
+[2018-06-11 18:07:38]	A valid option for log file was found in the configfile!
+[2018-06-11 18:07:38]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:07:38]	A valid option for logging target was found in the config file!
+[2018-06-11 18:07:38]	logConsole set to: False
+[2018-06-11 18:07:38]	Function initArgs was called
+[2018-06-11 18:07:38]	quiet set to: False
+[2018-06-11 18:07:45]	Entering interactive execution mode
+[2018-06-11 18:07:45]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:07:45]	Function initConfig was called
+[2018-06-11 18:07:45]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:07:45]	loggingThreshold set to: 5
+[2018-06-11 18:07:45]	A valid option for log file was found in the configfile!
+[2018-06-11 18:07:45]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:07:45]	A valid option for logging target was found in the config file!
+[2018-06-11 18:07:45]	logConsole set to: False
+[2018-06-11 18:07:45]	Function initArgs was called
+[2018-06-11 18:07:45]	quiet set to: False
+[2018-06-11 18:08:32]	Entering interactive execution mode
+[2018-06-11 18:08:32]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:08:32]	Function initConfig was called
+[2018-06-11 18:08:32]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:08:32]	loggingThreshold set to: 5
+[2018-06-11 18:08:32]	A valid option for log file was found in the configfile!
+[2018-06-11 18:08:32]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:08:33]	A valid option for logging target was found in the config file!
+[2018-06-11 18:08:33]	logConsole set to: False
+[2018-06-11 18:08:33]	Function initArgs was called
+[2018-06-11 18:08:33]	quiet set to: False
+[2018-06-11 18:31:07]	Entering interactive execution mode
+[2018-06-11 18:31:07]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:31:07]	Function initConfig was called
+[2018-06-11 18:31:07]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:31:07]	loggingThreshold set to: 5
+[2018-06-11 18:31:07]	A valid option for log file was found in the configfile!
+[2018-06-11 18:31:07]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:31:07]	A valid option for logging target was found in the config file!
+[2018-06-11 18:31:07]	logConsole set to: False
+[2018-06-11 18:31:07]	Function initArgs was called
+[2018-06-11 18:31:07]	quiet set to: False
+[2018-06-11 18:33:25]	Entering interactive execution mode
+[2018-06-11 18:33:25]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:33:25]	Function initConfig was called
+[2018-06-11 18:33:25]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:33:25]	loggingThreshold set to: 5
+[2018-06-11 18:33:25]	A valid option for log file was found in the configfile!
+[2018-06-11 18:33:25]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:33:25]	A valid option for logging target was found in the config file!
+[2018-06-11 18:33:25]	logConsole set to: False
+[2018-06-11 18:33:25]	Function initArgs was called
+[2018-06-11 18:33:25]	quiet set to: False
+[2018-06-11 18:33:43]	Entering interactive execution mode
+[2018-06-11 18:33:43]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:33:43]	Function initConfig was called
+[2018-06-11 18:33:43]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:33:43]	loggingThreshold set to: 5
+[2018-06-11 18:33:43]	A valid option for log file was found in the configfile!
+[2018-06-11 18:33:43]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:33:43]	A valid option for logging target was found in the config file!
+[2018-06-11 18:33:43]	logConsole set to: False
+[2018-06-11 18:33:43]	Function initArgs was called
+[2018-06-11 18:33:43]	quiet set to: False
+[2018-06-11 18:34:34]	Entering interactive execution mode
+[2018-06-11 18:34:34]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:34:34]	Function initConfig was called
+[2018-06-11 18:34:34]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:34:34]	loggingThreshold set to: 5
+[2018-06-11 18:34:34]	A valid option for log file was found in the configfile!
+[2018-06-11 18:34:34]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:34:34]	A valid option for logging target was found in the config file!
+[2018-06-11 18:34:34]	logConsole set to: False
+[2018-06-11 18:34:34]	Function initArgs was called
+[2018-06-11 18:34:34]	quiet set to: False
+[2018-06-11 18:35:19]	Entering interactive execution mode
+[2018-06-11 18:35:19]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:35:19]	Function initConfig was called
+[2018-06-11 18:35:19]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:35:19]	loggingThreshold set to: 5
+[2018-06-11 18:35:19]	A valid option for log file was found in the configfile!
+[2018-06-11 18:35:19]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:35:19]	A valid option for logging target was found in the config file!
+[2018-06-11 18:35:19]	logConsole set to: False
+[2018-06-11 18:35:19]	Function initArgs was called
+[2018-06-11 18:35:19]	quiet set to: False
+[2018-06-11 18:36:16]	Entering interactive execution mode
+[2018-06-11 18:36:16]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:36:16]	Function initConfig was called
+[2018-06-11 18:36:16]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:36:16]	loggingThreshold set to: 5
+[2018-06-11 18:36:16]	A valid option for log file was found in the configfile!
+[2018-06-11 18:36:16]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:36:16]	A valid option for logging target was found in the config file!
+[2018-06-11 18:36:16]	logConsole set to: False
+[2018-06-11 18:36:16]	Function initArgs was called
+[2018-06-11 18:36:16]	quiet set to: False
+[2018-06-11 18:37:07]	Entering interactive execution mode
+[2018-06-11 18:37:07]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:37:07]	Function initConfig was called
+[2018-06-11 18:37:07]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:37:07]	loggingThreshold set to: 5
+[2018-06-11 18:37:07]	A valid option for log file was found in the configfile!
+[2018-06-11 18:37:07]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:37:07]	A valid option for logging target was found in the config file!
+[2018-06-11 18:37:07]	logConsole set to: False
+[2018-06-11 18:37:07]	Function initArgs was called
+[2018-06-11 18:37:07]	quiet set to: False
+[2018-06-11 18:37:15]	Entering interactive execution mode
+[2018-06-11 18:37:15]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:37:15]	Function initConfig was called
+[2018-06-11 18:37:15]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:37:15]	loggingThreshold set to: 5
+[2018-06-11 18:37:15]	A valid option for log file was found in the configfile!
+[2018-06-11 18:37:15]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:37:15]	A valid option for logging target was found in the config file!
+[2018-06-11 18:37:15]	logConsole set to: False
+[2018-06-11 18:37:15]	Function initArgs was called
+[2018-06-11 18:37:15]	quiet set to: False
+[2018-06-11 18:37:53]	Entering interactive execution mode
+[2018-06-11 18:37:53]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:37:53]	Function initConfig was called
+[2018-06-11 18:37:53]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:37:53]	loggingThreshold set to: 5
+[2018-06-11 18:37:53]	A valid option for log file was found in the configfile!
+[2018-06-11 18:37:53]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:37:53]	A valid option for logging target was found in the config file!
+[2018-06-11 18:37:53]	logConsole set to: False
+[2018-06-11 18:37:53]	Function initArgs was called
+[2018-06-11 18:37:53]	quiet set to: False
+[2018-06-11 18:43:43]	Entering interactive execution mode
+[2018-06-11 18:43:43]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:43:43]	Function initConfig was called
+[2018-06-11 18:43:43]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:43:43]	loggingThreshold set to: 5
+[2018-06-11 18:43:43]	A valid option for log file was found in the configfile!
+[2018-06-11 18:43:43]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:43:43]	A valid option for logging target was found in the config file!
+[2018-06-11 18:43:43]	logConsole set to: False
+[2018-06-11 18:43:43]	Function initArgs was called
+[2018-06-11 18:43:43]	quiet set to: False
+[2018-06-11 18:45:22]	Entering interactive execution mode
+[2018-06-11 18:45:22]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:45:22]	Function initConfig was called
+[2018-06-11 18:45:22]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:45:22]	loggingThreshold set to: 5
+[2018-06-11 18:45:22]	A valid option for log file was found in the configfile!
+[2018-06-11 18:45:22]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:45:22]	A valid option for logging target was found in the config file!
+[2018-06-11 18:45:22]	logConsole set to: False
+[2018-06-11 18:45:22]	Function initArgs was called
+[2018-06-11 18:45:22]	quiet set to: False
+[2018-06-11 18:45:45]	Entering interactive execution mode
+[2018-06-11 18:45:45]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:45:45]	Function initConfig was called
+[2018-06-11 18:45:45]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:45:45]	loggingThreshold set to: 5
+[2018-06-11 18:45:45]	A valid option for log file was found in the configfile!
+[2018-06-11 18:45:45]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:45:45]	A valid option for logging target was found in the config file!
+[2018-06-11 18:45:45]	logConsole set to: False
+[2018-06-11 18:45:45]	Function initArgs was called
+[2018-06-11 18:45:45]	quiet set to: False
+[2018-06-11 18:46:38]	Entering interactive execution mode
+[2018-06-11 18:46:38]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:46:38]	Function initConfig was called
+[2018-06-11 18:46:38]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:46:38]	loggingThreshold set to: 5
+[2018-06-11 18:46:38]	A valid option for log file was found in the configfile!
+[2018-06-11 18:46:38]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:46:38]	A valid option for logging target was found in the config file!
+[2018-06-11 18:46:38]	logConsole set to: False
+[2018-06-11 18:46:38]	Function initArgs was called
+[2018-06-11 18:46:38]	quiet set to: False
+[2018-06-11 18:47:36]	Entering interactive execution mode
+[2018-06-11 18:47:36]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:47:36]	Function initConfig was called
+[2018-06-11 18:47:36]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:47:36]	loggingThreshold set to: 5
+[2018-06-11 18:47:36]	A valid option for log file was found in the configfile!
+[2018-06-11 18:47:36]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:47:36]	A valid option for logging target was found in the config file!
+[2018-06-11 18:47:36]	logConsole set to: False
+[2018-06-11 18:47:36]	Function initArgs was called
+[2018-06-11 18:47:36]	quiet set to: False
+[2018-06-11 18:49:05]	Entering interactive execution mode
+[2018-06-11 18:49:05]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:49:05]	Function initConfig was called
+[2018-06-11 18:49:05]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:49:05]	loggingThreshold set to: 5
+[2018-06-11 18:49:05]	A valid option for log file was found in the configfile!
+[2018-06-11 18:49:05]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:49:05]	A valid option for logging target was found in the config file!
+[2018-06-11 18:49:05]	logConsole set to: False
+[2018-06-11 18:49:05]	Function initArgs was called
+[2018-06-11 18:49:05]	quiet set to: False
+[2018-06-11 18:49:38]	Entering interactive execution mode
+[2018-06-11 18:49:38]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:49:38]	Function initConfig was called
+[2018-06-11 18:49:38]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:49:38]	loggingThreshold set to: 5
+[2018-06-11 18:49:38]	A valid option for log file was found in the configfile!
+[2018-06-11 18:49:38]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:49:38]	A valid option for logging target was found in the config file!
+[2018-06-11 18:49:38]	logConsole set to: False
+[2018-06-11 18:49:38]	Function initArgs was called
+[2018-06-11 18:49:38]	quiet set to: False
+[2018-06-11 18:50:50]	Entering interactive execution mode
+[2018-06-11 18:50:50]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:50:50]	Function initConfig was called
+[2018-06-11 18:50:50]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:50:50]	loggingThreshold set to: 5
+[2018-06-11 18:50:50]	A valid option for log file was found in the configfile!
+[2018-06-11 18:50:50]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:50:50]	A valid option for logging target was found in the config file!
+[2018-06-11 18:50:50]	logConsole set to: False
+[2018-06-11 18:50:50]	Function initArgs was called
+[2018-06-11 18:50:50]	quiet set to: False
+[2018-06-11 18:50:58]	Entering interactive execution mode
+[2018-06-11 18:50:58]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:50:58]	Function initConfig was called
+[2018-06-11 18:50:58]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:50:58]	loggingThreshold set to: 5
+[2018-06-11 18:50:58]	A valid option for log file was found in the configfile!
+[2018-06-11 18:50:58]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:50:58]	A valid option for logging target was found in the config file!
+[2018-06-11 18:50:58]	logConsole set to: False
+[2018-06-11 18:50:58]	Function initArgs was called
+[2018-06-11 18:50:58]	quiet set to: False
+[2018-06-11 18:52:15]	Entering interactive execution mode
+[2018-06-11 18:52:15]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:52:15]	Function initConfig was called
+[2018-06-11 18:52:15]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:52:15]	loggingThreshold set to: 5
+[2018-06-11 18:52:15]	A valid option for log file was found in the configfile!
+[2018-06-11 18:52:15]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:52:15]	A valid option for logging target was found in the config file!
+[2018-06-11 18:52:15]	logConsole set to: False
+[2018-06-11 18:52:15]	Function initArgs was called
+[2018-06-11 18:52:15]	quiet set to: False
+[2018-06-11 18:52:26]	Entering interactive execution mode
+[2018-06-11 18:52:26]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:52:26]	Function initConfig was called
+[2018-06-11 18:52:26]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:52:26]	loggingThreshold set to: 5
+[2018-06-11 18:52:26]	A valid option for log file was found in the configfile!
+[2018-06-11 18:52:26]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:52:26]	A valid option for logging target was found in the config file!
+[2018-06-11 18:52:26]	logConsole set to: False
+[2018-06-11 18:52:26]	Function initArgs was called
+[2018-06-11 18:52:26]	quiet set to: False
+[2018-06-11 18:52:56]	Entering interactive execution mode
+[2018-06-11 18:52:56]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:52:56]	Function initConfig was called
+[2018-06-11 18:52:56]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:52:56]	loggingThreshold set to: 5
+[2018-06-11 18:52:56]	A valid option for log file was found in the configfile!
+[2018-06-11 18:52:56]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:52:57]	A valid option for logging target was found in the config file!
+[2018-06-11 18:52:57]	logConsole set to: False
+[2018-06-11 18:52:57]	Function initArgs was called
+[2018-06-11 18:52:57]	quiet set to: False
+[2018-06-11 18:55:29]	Entering interactive execution mode
+[2018-06-11 18:55:29]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:55:29]	Function initConfig was called
+[2018-06-11 18:55:29]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:55:29]	loggingThreshold set to: 5
+[2018-06-11 18:55:29]	A valid option for log file was found in the configfile!
+[2018-06-11 18:55:29]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:55:29]	A valid option for logging target was found in the config file!
+[2018-06-11 18:55:29]	logConsole set to: False
+[2018-06-11 18:55:29]	Function initArgs was called
+[2018-06-11 18:55:29]	quiet set to: False
+[2018-06-11 18:55:39]	Entering interactive execution mode
+[2018-06-11 18:55:39]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:55:39]	Function initConfig was called
+[2018-06-11 18:55:39]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:55:39]	loggingThreshold set to: 5
+[2018-06-11 18:55:39]	A valid option for log file was found in the configfile!
+[2018-06-11 18:55:39]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:55:39]	A valid option for logging target was found in the config file!
+[2018-06-11 18:55:39]	logConsole set to: False
+[2018-06-11 18:55:39]	Function initArgs was called
+[2018-06-11 18:55:39]	quiet set to: False
+[2018-06-11 18:56:00]	Entering interactive execution mode
+[2018-06-11 18:56:00]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:56:00]	Function initConfig was called
+[2018-06-11 18:56:00]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:56:00]	loggingThreshold set to: 5
+[2018-06-11 18:56:00]	A valid option for log file was found in the configfile!
+[2018-06-11 18:56:00]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:56:00]	A valid option for logging target was found in the config file!
+[2018-06-11 18:56:00]	logConsole set to: False
+[2018-06-11 18:56:00]	Function initArgs was called
+[2018-06-11 18:56:00]	quiet set to: False
+[2018-06-11 18:56:33]	Entering interactive execution mode
+[2018-06-11 18:56:33]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:56:33]	Function initConfig was called
+[2018-06-11 18:56:33]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:56:33]	loggingThreshold set to: 5
+[2018-06-11 18:56:33]	A valid option for log file was found in the configfile!
+[2018-06-11 18:56:33]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:56:33]	A valid option for logging target was found in the config file!
+[2018-06-11 18:56:33]	logConsole set to: False
+[2018-06-11 18:56:33]	Function initArgs was called
+[2018-06-11 18:56:33]	quiet set to: False
+[2018-06-11 18:56:51]	Entering interactive execution mode
+[2018-06-11 18:56:51]	###### VSFTPD log Analyzer started ######
+[2018-06-11 18:56:51]	Function initConfig was called
+[2018-06-11 18:56:51]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 18:56:51]	loggingThreshold set to: 5
+[2018-06-11 18:56:51]	A valid option for log file was found in the configfile!
+[2018-06-11 18:56:51]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 18:56:51]	A valid option for logging target was found in the config file!
+[2018-06-11 18:56:51]	logConsole set to: False
+[2018-06-11 18:56:51]	Function initArgs was called
+[2018-06-11 18:56:51]	quiet set to: False
+[2018-06-11 19:06:21]	Entering interactive execution mode
+[2018-06-11 19:06:21]	###### VSFTPD log Analyzer started ######
+[2018-06-11 19:06:21]	Function initConfig was called
+[2018-06-11 19:06:21]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 19:06:21]	loggingThreshold set to: 5
+[2018-06-11 19:06:21]	A valid option for log file was found in the configfile!
+[2018-06-11 19:06:21]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 19:06:21]	A valid option for logging target was found in the config file!
+[2018-06-11 19:06:21]	logConsole set to: False
+[2018-06-11 19:06:21]	Function initArgs was called
+[2018-06-11 19:06:21]	quiet set to: False
+[2018-06-11 19:06:32]	Entering interactive execution mode
+[2018-06-11 19:06:32]	###### VSFTPD log Analyzer started ######
+[2018-06-11 19:06:32]	Function initConfig was called
+[2018-06-11 19:06:32]	A valid option for logging threshold was found in the configfile!
+[2018-06-11 19:06:32]	loggingThreshold set to: 5
+[2018-06-11 19:06:32]	A valid option for log file was found in the configfile!
+[2018-06-11 19:06:32]	logFile set to: D:\Librarys\intelliJ-workspace\TICT-V1IPASS-15\main.log
+[2018-06-11 19:06:32]	A valid option for logging target was found in the config file!
+[2018-06-11 19:06:32]	logConsole set to: False
+[2018-06-11 19:06:32]	Function initArgs was called
+[2018-06-11 19:06:32]	quiet set to: False
+[2018-06-12 10:47:52]	Entering interactive execution mode
+[2018-06-12 10:47:52]	###### VSFTPD log Analyzer started ######
+[2018-06-12 10:47:52]	Function initConfig was called
+[2018-06-12 10:47:52]	A valid option for logging threshold was found in the configfile!
+[2018-06-12 10:47:52]	loggingThreshold set to: 5
+[2018-06-12 10:47:52]	A valid option for log file was found in the configfile!
+[2018-06-12 10:47:52]	logFile set to: D:/Librarys/intelliJ-workspace/TICT-V1IPASS-15/main/main.log
+[2018-06-12 10:47:52]	A valid option for log file was found in the configfile!
+[2018-06-12 10:47:52]	inputFile set to: D:/Librarys/intelliJ-workspace/TICT-V1IPASS-15/main/input/vsftpd.log
+[2018-06-12 10:47:52]	A valid option for logging target was found in the config file!
+[2018-06-12 10:47:52]	logConsole set to: False
+[2018-06-12 10:47:52]	Function initArgs was called
+[2018-06-12 10:47:52]	quiet set to: False
