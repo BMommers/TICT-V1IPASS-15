@@ -2,7 +2,7 @@
 
 This logfile analyser was written for a project at the Hogeschool Utrecht, The Netherlands.
 
-### Prerequisites
+## Prerequisites
 
 For this program to run correctly, it requires for a correct installation of Python 3.6.
 All used modules are default in Python 3.6, but are listed down here just in case.
