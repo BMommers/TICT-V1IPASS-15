@@ -159,6 +159,7 @@ class Client:
     def __init__(self, ip):
         """ Initiator method for creating client objects """
         self.ip = ip
+        self.sessions = 1
         Client.allClients.append(self)
 
     @staticmethod
@@ -166,6 +167,8 @@ class Client:
         """ If client does not exist, create the new client """
         if not Client.exist(ip):
             Client(ip)
+        else:
+            Client.search(ip).sessions += 1
 
     @staticmethod
     def exist(ip):
@@ -174,6 +177,13 @@ class Client:
             if client.ip == ip:
                 return True  # Return true, if client exists
         return False  # Return false if client does not exist
+
+    @staticmethod
+    def search(ip):
+        """ Method for searching and returning an existing client """
+        for client in Client.allClients:
+            if client.ip == ip:   # If file is found in allClients list return it
+                return client
 
 
 class File:
@@ -425,6 +435,34 @@ class userOverview(tkinter.Frame):
         treeview.pack(fill=tkinter.BOTH, expand=True)
 
 
+class clientOverview(tkinter.Frame):
+    """ Class is used to create an overview of all clients to be used in the application"""
+    def __init__(self, parent):
+        """ Initiator needs a tkinterparent to place itself into """
+        logger.print(3, "userOverview init method was called")
+        self.parent = parent
+        super().__init__(self.parent)
+
+        treeview = tkinter.ttk.Treeview(self, selectmode="browse")
+        # Create and initialize the columns of the treeview object
+        treeview["columns"] = ("One", "Two")
+        treeview.heading("One", text="IP")
+        treeview.heading("Two", text="Sessions")
+
+        # Create a scrollbar object and link it to the yview command of the treeview object
+        vsb = tkinter.ttk.Scrollbar(self, orient="vertical", command=treeview.yview)
+        # Pack the scrollbar to the Frame
+        vsb.pack(side="right", fill="y")
+        #   Configure treeview to present its yvalue to the scrollbar
+        treeview.configure(yscrollcommand=vsb.set)
+
+        for client in Client.allClients:      # For all clients
+            # Create a new treeview key, containing all interesting data from that client
+            treeview.insert("", "end", text="", values=(client.ip, client.sessions))
+        #  Pack the treeview to the frame
+        treeview.pack(fill=tkinter.BOTH, expand=True)
+
+
 class Menu(tkinter.Menu):
     """ Menu class is user to create tkinter menu objects to fill the applications menubar """
     def __init__(self, parent):
@@ -445,6 +483,7 @@ class Menu(tkinter.Menu):
         viewmenu.add_command(label="Top 10 downloaded files", command=self.master.viewDownloadedFiles)
         viewmenu.add_command(label="Missende bestanden", command=self.master.viewNonExistingFiles)
         viewmenu.add_command(label="Overzicht gebruikers", command=self.master.viewUserOverview)
+        viewmenu.add_command(label="Overzicht clients", command=self.master.viewClientOverview)
         self.add_cascade(label="View", menu=viewmenu)
 
         # Create a Header and add commandbuttons to it
@@ -474,12 +513,13 @@ class Application(tkinter.Frame):
         self.columnconfigure(7, weight=1)
 
         navbar = Menu(self)     # Create the navigation bar (menubar)
-        self.master.config(menu=navbar)  #   Configure the window to use the navigation bar
+        self.master.config(menu=navbar)  # Configure the window to use the navigation bar
 
         #  Initiate all different views, but dont push them to the screen
         self.nonExistingFiles = treeviewFiles(self, File.sortFiles(File.nonExistingFiles))
         self.downloadedFiles = treeviewFiles(self, File.sortFiles(File.existingFiles)[:10])
         self.userOverview = userOverview(self)
+        self.clientOverview = clientOverview(self)
 
         #   Push the most downloadedFiles treeviewobject to the screen at startup
         self.viewDownloadedFiles()
@@ -510,6 +550,13 @@ class Application(tkinter.Frame):
         self.emptyScreen()
         tkinter.Label(self, text="Failed download Attempts").pack()
         self.nonExistingFiles.pack()
+
+    def viewClientOverview(self):
+        """ Push the NonExistingoverview to the screen """
+        logger.print(3, "Application viewClientOverview method was called")
+        self.emptyScreen()
+        tkinter.Label(self, text="Logged on clients").pack()
+        self.clientOverview.pack()
 
     def close(self):
         """ Close the application, and configure it not to reopen it """
@@ -612,6 +659,7 @@ def initSilent():
     logger.print(3, "initSilent function was called")
     #  silent operation mode is yet to be implemented
     print("DO SILENT STUFF")
+
 
 #  Initialize the logger Logmanager object, so that logs may be managed
 logger = Logmanager()
