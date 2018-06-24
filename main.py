@@ -59,50 +59,56 @@ class Logmanager:
 
 def analyseLogfile():
     """ Function analyses the specified logfile, and takes all important information before saving it """
+    global closeApp
     logger.print(3, "analyseLogfile was called")
     fileObject = open(config.inputFile, 'r')
-
     for event in fileObject:  # For every line in specified logfile
-        data = event.split(" ")
-        if data[8] == "CONNECT:":  # Message is a CONNECT event
-            if data[9] == "Client":  # With a specified client, save the data into a new client object
-                Client.new(data[10].split(":")[3][:-2])
-            else:  # A new type of event will be logged to the logfile
-                logger.print(4, "An unknown connect event was found")
-                logger.print(2, "Event was not recognized")
-                logger.print(2, data)
-        else:  # Message is a user-initiated event
-            if data[9] == "OK":  # Events status is OK
-                username = data[8][1:-1]
-                if data[10] == "DOWNLOAD:":  # Event is a  download event
-                    path = "/".join(data[13].replace('"', "").split("/")[0:-1])
-                    filename = data[13].replace('"', "").split("/")[-1][:-1]
-                    speed = float(data[-1][:-10])
-                    size = int(data[-3])
-                    # Username logs in as an object, and downloads specified file
-                    User.logon(username).downloadFile(path, filename, speed, True, size)
-                elif data[10] == "LOGIN:":  # If message is a LOGON event, do nothing
-                    continue
-                else:   # A new type of event will be logged to the logfile
-                    logger.print(4, "An unknown connect event was found")
-                    logger.print(2, "Event was not recognized")
-                    logger.print(2, data)
-            elif data[9] == "FAIL":  # If the event states a failed action
-                if data[10] == "DOWNLOAD:":  # if the event is a download event
-                    speed = float(data[-1][:-10])
-                    if speed == 0.00:  # And the speed equals zero
-                        path = "/".join(data[13].replace('"', "").split("/")[0:-1])
-                        filename = data[13].replace('"', "").split("/")[-1][:-1]
-                        #  Save the event as an object
-                        File.download(path, filename, speed, False)
+        try:
+            data = event.split(" ")
+            if data[8] == "CONNECT:":  # Message is a CONNECT event
+                if data[9] == "Client":  # With a specified client, save the data into a new client object
+                    Client.new(data[10].split(":")[3][:-2])
                 else:  # A new type of event will be logged to the logfile
                     logger.print(4, "An unknown connect event was found")
                     logger.print(2, "Event was not recognized")
                     logger.print(2, data)
-            else:  # A new type of event will be logged to the logfile
-                logger.print(4, "An unknown connect event was found")
-                logger.print(2, "Event was not recognized")
-                logger.print(2, data)
+            else:  # Message is a user-initiated event
+                if data[9] == "OK":  # Events status is OK
+                    username = data[8][1:-1]
+                    if data[10] == "DOWNLOAD:":  # Event is a  download event
+                        path = "/".join(data[13].replace('"', "").split("/")[0:-1])
+                        filename = data[13].replace('"', "").split("/")[-1][:-1]
+                        speed = float(data[-1][:-10])
+                        size = int(data[-3])
+                        # Username logs in as an object, and downloads specified file
+                        User.logon(username).downloadFile(path, filename, speed, True, size)
+                    elif data[10] == "LOGIN:":  # If message is a LOGON event, do nothing
+                        continue
+                    else:   # A new type of event will be logged to the logfile
+                        logger.print(4, "An unknown connect event was found")
+                        logger.print(2, "Event was not recognized")
+                        logger.print(2, data)
+                elif data[9] == "FAIL":  # If the event states a failed action
+                    if data[10] == "DOWNLOAD:":  # if the event is a download event
+                        speed = float(data[-1][:-10])
+                        if speed == 0.00:  # And the speed equals zero
+                            path = "/".join(data[13].replace('"', "").split("/")[0:-1])
+                            filename = data[13].replace('"', "").split("/")[-1][:-1]
+                            #  Save the event as an object
+                            File.download(path, filename, speed, False)
+                    else:  # A new type of event will be logged to the logfile
+                        logger.print(4, "An unknown connect event was found")
+                        logger.print(2, "Event was not recognized")
+                        logger.print(2, data)
+                else:  # A new type of event will be logged to the logfile
+                    logger.print(4, "An unknown connect event was found")
+                    logger.print(2, "Event was not recognized")
+                    logger.print(2, data)
+        except:
+            logger.print(1, "File could not be processed.")
+            logger.print(1, "Error occured while processing the following line:.")
+            logger.print(1, event)
+            raise ValueError('File could not be processed. Check the logFile!')
 
 
 class User:
@@ -624,9 +630,21 @@ class fileSelector(tkinter.Frame):
 
     def OK(self):
         """ Confirm selected path and file and save it """
-        logger.print(3, "fileSelector OK method was called")
         global closeApp, logFile
-        logFile = self.filePath.get()
+        logger.print(3, "fileSelector OK method was called")
+        file = self.filePath.get()
+        try:
+            open(file, 'r')
+            ext = file.split(".")[-1]
+            if ext != "txt" and ext != "log":
+                msg = "Op dit moment worden " + ext + " bestanden niet ondersteund. Geef een .txt of .log bestand op!"
+                tkinter.messagebox.showerror("Niet ondersteund bestandstype", msg)
+                return
+        except OSError:
+            # if the file does not exist
+            tkinter.messagebox.showerror("Incorrect pad!", "Het pad wat u ingevuld heeft is incorrect!")
+            return
+        config.inputFile = file
         closeApp = False
         self.master.destroy()
 
@@ -648,9 +666,9 @@ def initInteractive():
         if closeApp:
             sys.exit()
 
+        analyseLogfile()
         closeApp = True
 
-        analyseLogfile()
         Application().mainloop()
 
 
